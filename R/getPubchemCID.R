@@ -1,4 +1,4 @@
-getPubchemCID-function(getNAME)
+getPubchemCID<-function(getNAME)
 {
   ###Baicalin
   ###################################	

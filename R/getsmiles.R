@@ -1,4 +1,4 @@
-getsmiles-function(getNAME)
+getsmiles<-function(getNAME)
 {
   ###Baicalin
   ###################################	
